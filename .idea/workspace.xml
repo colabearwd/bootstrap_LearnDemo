@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="514ea0d5-8992-4b4e-9365-ebd4bb651c90" name="Default" comment="" />
+    <list default="true" id="514ea0d5-8992-4b4e-9365-ebd4bb651c90" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/02_modle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/03_css_overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/04_grid_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/04_grid_02.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/04_grid_03.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/04_grid_04.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01_day/05_typography_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BootCDN" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap.html" afterPath="$PROJECT_DIR$/01_day/01_intro_bootstrap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html" afterPath="$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="01_intro_bootstrap.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01_day/01_intro_bootstrap.html">
+      <file leaf-file-name="05_typography_01.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01_day/05_typography_01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="01_intro_bootstrap_02.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+            <state relative-caret-position="114">
+              <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -41,6 +43,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -49,8 +54,16 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/BootCDN" />
+        <option value="$PROJECT_DIR$/01_day/02_modle.html" />
         <option value="$PROJECT_DIR$/01_day/01_intro_bootstrap.html" />
         <option value="$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html" />
+        <option value="$PROJECT_DIR$/01_day/03_css_overview.html" />
+        <option value="$PROJECT_DIR$/01_day/04_grid_01.html" />
+        <option value="$PROJECT_DIR$/01_day/04_grid_02.html" />
+        <option value="$PROJECT_DIR$/01_day/04_grid_03.html" />
+        <option value="$PROJECT_DIR$/01_day/04_grid_04.html" />
+        <option value="$PROJECT_DIR$/01_day/05_typography_01.html" />
       </list>
     </option>
   </component>
@@ -60,11 +73,14 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="468" />
+    <option name="y" value="39" />
     <option name="width" value="861" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -213,15 +229,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506824297537</updated>
-      <workItem from="1506824306839" duration="1926000" />
+      <workItem from="1506824306839" duration="8133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1926000" />
+    <option name="totallyTimeSpent" value="8133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="468" y="39" width="861" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -232,11 +248,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18532526" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2059925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -263,18 +279,101 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_day/02_modle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_day/01_intro_bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="50" column="63" lean-forward="false" selection-start-line="50" selection-start-column="63" selection-end-line="50" selection-end-column="63" />
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="100" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BootCDN">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/04_grid_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/03_css_overview.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/04_grid_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/04_grid_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/04_grid_04.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_day/05_typography_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
           <folding />
         </state>
       </provider>
