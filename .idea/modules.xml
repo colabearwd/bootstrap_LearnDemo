@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/bootstrap_learnDemo.iml" filepath="$PROJECT_DIR$/bootstrap_learnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootstrap_LearnDemo.iml" filepath="$PROJECT_DIR$/bootstrap_LearnDemo.iml" />
     </modules>
   </component>
 </project>
