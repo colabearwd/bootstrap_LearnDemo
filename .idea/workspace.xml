@@ -2,8 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23496b0f-2014-4357-a34f-d77078a507e1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/02_modle.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/03_css_overview.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/04_grid_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/04_grid_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/04_grid_03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/04_grid_04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/05_typography_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/06_code_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/01_day/07_tables_07.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/01_forms_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/01_forms_02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/01_forms_03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/01_forms_04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/01_froms_05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/02_button_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/03_img_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/04_helperclasses_01.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/02_day/04_helperclasses_02.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap.html" afterPath="$PROJECT_DIR$/Old/01_day/01_intro_bootstrap.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/01_intro_bootstrap_02.html" afterPath="$PROJECT_DIR$/Old/01_day/01_intro_bootstrap_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/02_modle.html" afterPath="$PROJECT_DIR$/Old/01_day/02_modle.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/03_css_overview.html" afterPath="$PROJECT_DIR$/Old/01_day/03_css_overview.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/04_grid_01.html" afterPath="$PROJECT_DIR$/Old/01_day/04_grid_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/04_grid_02.html" afterPath="$PROJECT_DIR$/Old/01_day/04_grid_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/04_grid_03.html" afterPath="$PROJECT_DIR$/Old/01_day/04_grid_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/04_grid_04.html" afterPath="$PROJECT_DIR$/Old/01_day/04_grid_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/05_typography_01.html" afterPath="$PROJECT_DIR$/Old/01_day/05_typography_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/06_code_01.html" afterPath="$PROJECT_DIR$/Old/01_day/06_code_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_01.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_02.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_03.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_04.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_05.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_06.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_06.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01_day/07_tables_07.html" afterPath="$PROJECT_DIR$/Old/01_day/07_tables_07.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/01_forms_01.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/01_forms_02.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/01_forms_03.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_03.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/01_forms_04.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_04.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/01_froms_05.html" afterPath="$PROJECT_DIR$/Old/02_day/01_froms_05.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/02_button_01.html" afterPath="$PROJECT_DIR$/Old/02_day/02_button_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/03_img_01.html" afterPath="$PROJECT_DIR$/Old/02_day/03_img_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/04_helperclasses_01.html" afterPath="$PROJECT_DIR$/Old/02_day/04_helperclasses_01.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/02_day/04_helperclasses_02.html" afterPath="$PROJECT_DIR$/Old/02_day/04_helperclasses_02.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03_day/01demo.html" afterPath="$PROJECT_DIR$/Old/03_day/01demo.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/03_day/02demo.html" afterPath="$PROJECT_DIR$/Old/03_day/02demo.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,6 +115,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ProgramFile\bootstrap_LearnDemo\Old" />
+      <recent name="D:\ProgramFile\bootstrap_LearnDemo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -169,12 +227,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509931261847</updated>
-      <workItem from="1509931263314" duration="5000" />
+      <workItem from="1509931263314" duration="142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5000" />
+    <option name="totallyTimeSpent" value="142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
