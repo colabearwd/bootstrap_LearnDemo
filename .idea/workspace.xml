@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23496b0f-2014-4357-a34f-d77078a507e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Grid System/Col-OffSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Grid System/Col-Push-Pull.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Grid System/Col-ReSet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Grid System/Row in Col.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Grid System/TestDevice.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/File/Grid System/Demo-Link.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/File/usemap/Demo-Link.html" afterPath="$PROJECT_DIR$/File/usemap/Demo-Link.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Old/02_day/01_forms_01.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_01.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Old/02_day/01_forms_02.html" afterPath="$PROJECT_DIR$/Old/02_day/01_forms_02.html" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,77 +15,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestDevice.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/Grid System/TestDevice.html">
+      <file leaf-file-name="01_forms_01.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_01.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="13" selection-end-column="87" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="342">
+              <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Col-ReSet.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/Grid System/Col-ReSet.html">
+      <file leaf-file-name="01_forms_02.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="52" column="16" lean-forward="false" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="133">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Col-OffSet.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/Grid System/Col-OffSet.html">
+      <file leaf-file-name="01_forms_03.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="519">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Row in Col.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/File/Grid System/Row in Col.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="46" column="14" lean-forward="false" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Col-Push-Pull.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/File/Grid System/Col-Push-Pull.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,6 +70,8 @@
         <option value="$PROJECT_DIR$/File/usemap/Demo-Link.html" />
         <option value="$PROJECT_DIR$/File/Grid System/Demo-Link.html" />
         <option value="$PROJECT_DIR$/File/Grid System/Col-Push-Pull.html" />
+        <option value="$PROJECT_DIR$/Old/02_day/01_forms_01.html" />
+        <option value="$PROJECT_DIR$/Old/02_day/01_forms_02.html" />
       </list>
     </option>
   </component>
@@ -131,7 +82,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="184" />
     <option name="y" value="46" />
     <option name="width" value="842" />
@@ -173,14 +124,13 @@
             <path>
               <item name="bootstrap_LearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap_LearnDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-              <item name="Grid System" type="462c0819:PsiDirectoryNode" />
+              <item name="Old" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootstrap_LearnDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap_LearnDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="File" type="462c0819:PsiDirectoryNode" />
-              <item name="usemap" type="462c0819:PsiDirectoryNode" />
+              <item name="Old" type="462c0819:PsiDirectoryNode" />
+              <item name="02_day" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -313,15 +263,15 @@
       <option name="presentableId" value="Default" />
       <updated>1509931261847</updated>
       <workItem from="1509931263314" duration="142000" />
-      <workItem from="1509931762449" duration="4450000" />
+      <workItem from="1509931762449" duration="7328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4592000" />
+    <option name="totallyTimeSpent" value="7470000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -443,14 +393,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/File/Grid System/Col-Push-Pull.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        <state relative-caret-position="196">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old/01_day/07_tables_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="26" lean-forward="true" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Old/02_day/01_forms_03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding />
         </state>
       </provider>
     </entry>
